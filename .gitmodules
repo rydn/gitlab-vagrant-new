@@ -1,0 +1,3 @@
+[submodule "cookbooks/gitlab"]
+	path = cookbooks/gitlab
+	url = https://github.com/atomic-penguin/cookbook-gitlab.git
